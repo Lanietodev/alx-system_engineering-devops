@@ -1,3 +1,3 @@
-#Functions of each script
+# Functions of each script
 
--The 0-current_working_directory script prints the absolute path name of the current working directory
+- The 0-current_working_directory script prints the absolute path name of the current working directory
