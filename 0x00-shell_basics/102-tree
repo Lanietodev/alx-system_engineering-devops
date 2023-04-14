@@ -1,2 +1,2 @@
 #!/bin/bash
-0stringSCHOOLSchool data file
+mkdir -p welcome/to/school
